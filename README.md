@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i'm roller skater! 🛼
+- ⚡ Fun fact: I'm roller skater! 🛼
 
 <!---
 emilydelporto/emilydelporto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
